@@ -18,8 +18,10 @@ Text data is cleaned and transformed using the **TF-IDF Vectorizer**, followed b
 4. Train a machine learning model for classification
 5. Evaluate model performance
 
-## Status
-Initial version of the project. Further improvements and experiments will be added.
+## What I Learned
+- TF-IDF captures writing patterns, not truth
+- Dataset bias affects learned features
+- Logistic Regression assigns weights to words
 
 ## Dataset
 The dataset used in this project was sourced from Kaggle:  
